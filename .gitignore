@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#IDEs
+.idea/
+
+#Snapshots
+/src/08-snapshot-testing/__snapshots__/
